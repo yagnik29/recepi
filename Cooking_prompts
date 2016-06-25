@@ -1,3 +1,6 @@
 What happens when you initialize a repository? Why do you need to do it?
 	After initializing a repository it will show the empty git repository in current path. 
 
+How is the staging area different from the working directory and the repository? What value do you think it offers?
+
+	Staging area is the one which contains the mirror image of the working directory. 
